@@ -18,7 +18,7 @@ The influencers are segmented, using K-Mean Clustering algorithm, based on a few
 
 ### 3. Predictive Modeling
 
-This section involves the training of a predictive model using Random Forest algorithm. The model is trained on the data from the top 20 influencers and is designed to predict the success of influencers. The accuracy of the model is then evaluated using data from another set of 20 outstanding influencers.
+This section involves the training of a predictive model using Random Forest algorithm. The model is trained on the data from the top 20 influencers and is designed to predict the number of 'Likes'. The accuracy of the model is then evaluated using data from another set of 20 outstanding influencers.
 
 ## Project Goal
 
